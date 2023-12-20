@@ -1,0 +1,16 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "It is backend api for twitter clone",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev":"nodemon app.js"
+  },
+  "author": "krishna sahu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
